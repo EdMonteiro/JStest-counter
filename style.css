@@ -1,0 +1,13 @@
+body {
+    background: GhostWhite;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  div {
+    max-width: 700px;
+    margin: 0 auto 50px;
+    padding: 5px 8px;
+    overflow: auto;
+  }
+  
+  /* Styles below */
